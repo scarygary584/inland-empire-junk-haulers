@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# Canonical sitemap for Inland Empire Junk Haulers
 Sitemap: https://www.inlandempirejunkhaulers.com/sitemap.xml
